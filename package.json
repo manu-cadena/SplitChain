@@ -1,0 +1,27 @@
+{
+  "name": "splitchain",
+  "version": "1.0.0",
+  "description": "SplitChain is a blockchain-based expense tracking and splitting application designed to help groups transparently manage and divide costs during shared activities, such as trips, events, or crowdfunding campaigns. The app leverages blockchain technology to ensure secure, transparent, and immutable records of transactions for each group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu-cadena/SplitChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manu-cadena/SplitChain/issues"
+  },
+  "homepage": "https://github.com/manu-cadena/SplitChain#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.2.0",
+    "chai": "^4.5.0",
+    "hardhat": "^2.22.19"
+  }
+}
